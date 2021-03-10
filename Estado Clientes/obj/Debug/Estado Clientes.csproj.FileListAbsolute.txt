@@ -1,0 +1,11 @@
+C:\Users\Manuel Henríquez\source\repos\Estado Clientes\Estado Clientes\bin\Debug\Estado Clientes.exe
+C:\Users\Manuel Henríquez\source\repos\Estado Clientes\Estado Clientes\bin\Debug\Estado Clientes.pdb
+C:\Users\Manuel Henríquez\source\repos\Estado Clientes\Estado Clientes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Manuel Henríquez\source\repos\Estado Clientes\Estado Clientes\bin\Debug\RestSharp.dll
+C:\Users\Manuel Henríquez\source\repos\Estado Clientes\Estado Clientes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Manuel Henríquez\source\repos\Estado Clientes\Estado Clientes\bin\Debug\RestSharp.xml
+C:\Users\Manuel Henríquez\source\repos\Estado Clientes\Estado Clientes\obj\Debug\Estado Clientes.csprojAssemblyReference.cache
+C:\Users\Manuel Henríquez\source\repos\Estado Clientes\Estado Clientes\obj\Debug\Estado Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Manuel Henríquez\source\repos\Estado Clientes\Estado Clientes\obj\Debug\Estado Clientes.csproj.CopyComplete
+C:\Users\Manuel Henríquez\source\repos\Estado Clientes\Estado Clientes\obj\Debug\Estado Clientes.exe
+C:\Users\Manuel Henríquez\source\repos\Estado Clientes\Estado Clientes\obj\Debug\Estado Clientes.pdb
